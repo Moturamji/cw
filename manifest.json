@@ -1,6 +1,6 @@
 {
-    "name": "company_website",
-    "short_name": "company_website",
+    "name": "coct",
+    "short_name": "coct",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
